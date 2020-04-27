@@ -1,6 +1,6 @@
 Projeto criado para a conclusão da especialização em "C# Programming for Unity Game Development", disponível na plataforma de cursos Coursera.
 
-Jogo desenvolvido sem fins lucrativos, apenas educacional.
+Jogo desenvolvido sem fins lucrativos, apenas por objetivo educacional.
 
 Todas as sprites utilizadas pertencem a Square Enix.
 
